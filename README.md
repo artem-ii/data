@@ -1,2 +1,1 @@
-# data
-Data Analysis Repo by Artemii
+# Data Analysis Repo by Artemii
