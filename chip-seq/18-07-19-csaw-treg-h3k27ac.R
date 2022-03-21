@@ -10,6 +10,7 @@ bam.files <- c("/media/serlia/Storage\ 2/rora-treg-chipseq/mapping/srtd-fltrd/tr
                "/media/serlia/Storage\ 2/rora-treg-chipseq/mapping/srtd-fltrd/treg/KO-H-2_S5.sorted.mrkdup.bam",
                "/media/serlia/Storage\ 2/rora-treg-chipseq/mapping/srtd-fltrd/treg/KO-H-3_S6.sorted.mrkdup.bam")
 
+
 # depends on the aligner? Check for bowtie 
 # Also better to set dedup = TRUE for readParam
 # at this stage
