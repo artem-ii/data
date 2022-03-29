@@ -13,7 +13,7 @@ Small python script scanning output of cistrome GO tool and finding terms with F
 
 
 ## sc-rna-seq
-### Tabula_muris_lung.R
+### Tabula_muris_lung.R (and plots in pdf)
 small scRNA-seq analysis of Tabula Muris data set
 
 A test of Tabula Muris data set using Seurat R package.
@@ -43,6 +43,9 @@ Visualization of ChIP-seq binding signals
 In this image I compared signals in ChIP-seq data from literature (Liver RORa ChIP-seq) with our data (Treg RORa ChIP-seq)
 
 
+## microarray
+### TregMA_v1.R
+Microarray analysis using limma R package
 
 
 
