@@ -25,3 +25,25 @@ The aim was to check if there's enough immune cells of our interest to test furt
 ChIP-seq differential binding analysis using csaw
 
 Histone H3K27Ac ChIP-seq data analysed in wt and ko cells for differential binding using csaw R package.
+
+
+### commands-13-july-2021.sh
+Difference between genome-wide ChIP-seq signals
+
+Here I normalized, compared, calculated mean signals of several ChIP-seq signal files (BigWig) using various tools.
+
+### deeptools-for-chip-seq.sh
+ChIP-seq signal profiling using deeptools
+
+Here I tested histone ChIP-seq signals using a set of regions of interest and plotted heatmaps to visualize those signals
+
+### rora-putative-sites-treg-vs-liver.pdf
+Visualization of ChIP-seq binding signals
+
+In this image I compared signals in ChIP-seq data from literature (Liver RORa ChIP-seq) with our data (Treg RORa ChIP-seq)
+
+
+
+
+
+
